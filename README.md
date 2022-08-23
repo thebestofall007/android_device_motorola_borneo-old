@@ -1,9 +1,3 @@
 # Android device tree for motorola moto g power (2021) (borneo)
 
-```
-#
-# Copyright (C) 2022 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+This tree is based on the push of the XT2117-4_BORNEO_RETUS_11_RZBS31.Q2-143-27-13_subsidy-DEFAULT_regulatory-DEFAULT_CFC release for the U.S. retail model, XT2117-4.
